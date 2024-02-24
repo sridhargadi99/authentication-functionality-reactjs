@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.login-heading-style {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 700;
+}
+.login-button-style {
+  cursor: pointer;
+  outline: none;
+}
